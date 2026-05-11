@@ -3,8 +3,7 @@
   "name": "changken-blog",
   "compatibility_date": "2026-05-11",
   "assets": {
-    "directory": "./dist",
-    "binding": "ASSETS"
+    "directory": "./dist"
   },
   "observability": {
     "enabled": true
