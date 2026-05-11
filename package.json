@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "pnpm build && wrangler pages deploy",
+    "deploy": "pnpm build && wrangler pages deploy ./dist",
     "preview:cloudflare": "pnpm build && wrangler pages dev ./dist",
     "upload": "node scripts/upload.mjs",
     "migrate:wp": "node scripts/migrate-wordpress.mjs",
