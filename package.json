@@ -9,7 +9,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "migrate:wp": "node scripts/migrate-wordpress.mjs",
+    "migrate:wp:remote-assets": "node scripts/migrate-wordpress.mjs --remote-assets",
+    "migrate:wp:all": "node scripts/migrate-wordpress.mjs --all"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",

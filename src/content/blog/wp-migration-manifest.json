@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1689,
+    "title": "AWS Certified Developer Associate 通過",
+    "date": "2025-11-23T21:12:51",
+    "source": "https://changken.org/1689/aws-dva-passed/",
+    "output": "src\\content\\blog\\2025-11-23-aws-dva-passed.md",
+    "categories": [
+      "AWS"
+    ],
+    "tags": [
+      "AWS",
+      "DVA"
+    ]
+  },
+  {
+    "id": 1688,
+    "title": "Aws Certified AI Practitioner 通過",
+    "date": "2025-11-09T12:15:17",
+    "source": "https://changken.org/1688/aws-aif-c01-pass/",
+    "output": "src\\content\\blog\\2025-11-09-aws-aif-c01-pass.md",
+    "categories": [
+      "AWS"
+    ],
+    "tags": [
+      "AI",
+      "AWS"
+    ]
+  },
+  {
+    "id": 1684,
+    "title": "AWS Certified&nbsp; Solution Architect Associate SAA-C03 通過!",
+    "date": "2025-09-20T22:16:25",
+    "source": "https://changken.org/1684/aws-saa-c03-pass/",
+    "output": "src\\content\\blog\\2025-09-20-aws-saa-c03-pass.md",
+    "categories": [
+      "AWS"
+    ],
+    "tags": [
+      "AWS",
+      "SAA"
+    ]
+  },
+  {
+    "id": 1686,
+    "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 一次通過!",
+    "date": "2025-09-20T21:42:58",
+    "source": "https://changken.org/1686/microsoft-sc-900-pass/",
+    "output": "src\\content\\blog\\2025-09-20-microsoft-sc-900-pass.md",
+    "categories": [
+      "Azure"
+    ],
+    "tags": [
+      "azure",
+      "security"
+    ]
+  },
+  {
+    "id": 1683,
+    "title": "Azure AI-900 & DP-900 一次通過兩張!",
+    "date": "2025-09-13T20:57:22",
+    "source": "https://changken.org/1683/azure-ai-900-dp-900-pass/",
+    "output": "src\\content\\blog\\2025-09-13-azure-ai-900-dp-900-pass.md",
+    "categories": [
+      "Azure"
+    ],
+    "tags": [
+      "AI",
+      "azure",
+      "Data"
+    ]
+  },
+  {
+    "id": 1678,
+    "title": "Azure Fundamental (AZ-900) 通過!",
+    "date": "2025-08-31T14:17:14",
+    "source": "https://changken.org/1678/azure-fundamental-az-900-pass/",
+    "output": "src\\content\\blog\\2025-08-31-azure-fundamental-az-900-pass.md",
+    "categories": [
+      "Azure"
+    ],
+    "tags": [
+      "azure"
+    ]
+  },
+  {
+    "id": 1670,
+    "title": "AWS Certified Cloud Practitioner 通過!!",
+    "date": "2025-07-28T21:59:09",
+    "source": "https://changken.org/1670/aws-certified-cloud-practitioner-%e9%80%9a%e9%81%8e/",
+    "output": "src\\content\\blog\\2025-07-28-aws-certified-cloud-practitioner-通過.md",
+    "categories": [
+      "AWS"
+    ],
+    "tags": [
+      "AWS"
+    ]
+  },
+  {
+    "id": 1637,
+    "title": "[開箱] 十銓 Team mp33 2TB PCIE Gen3x4 SSD",
+    "date": "2023-06-26T11:39:48",
+    "source": "https://changken.org/1637/%e9%96%8b%e7%ae%b1-%e5%8d%81%e9%8a%93-team-mp33-2tb-pcie-gen3x4-ssd/",
+    "output": "src\\content\\blog\\2023-06-26-開箱-十銓-team-mp33-2tb-pcie-gen3x4-ssd.md",
+    "categories": [
+      "電腦硬體"
+    ],
+    "tags": [
+      "M.2",
+      "SSD",
+      "十銓",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1636,
+    "title": "[開箱]技嘉 GIGABYTE G5 MF-E2TW333SH 電競筆電",
+    "date": "2023-06-25T23:08:39",
+    "source": "https://changken.org/1636/%e9%96%8b%e7%ae%b1%e6%8a%80%e5%98%89-gigabyte-g5-mf-e2tw333sh-%e9%9b%bb%e7%ab%b6%e7%ad%86%e9%9b%bb/",
+    "output": "src\\content\\blog\\2023-06-25-開箱技嘉-gigabyte-g5-mf-e2tw333sh-電競筆電.md",
+    "categories": [
+      "筆電"
+    ],
+    "tags": [
+      "G5 MF",
+      "技嘉",
+      "筆電",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1624,
+    "title": "[加密貨幣]請立即將你的幣提到自己的錢包",
+    "date": "2022-11-16T13:39:11",
+    "source": "https://changken.org/1624/%e5%8a%a0%e5%af%86%e8%b2%a8%e5%b9%a3%e8%ab%8b%e7%ab%8b%e5%8d%b3%e5%b0%87%e4%bd%a0%e7%9a%84%e5%b9%a3%e6%8f%90%e5%88%b0%e8%87%aa%e5%b7%b1%e7%9a%84%e9%8c%a2%e5%8c%85/",
+    "output": "src\\content\\blog\\2022-11-16-加密貨幣請立即將你的幣提到自己的錢包.md",
+    "categories": [
+      "加密貨幣"
+    ],
+    "tags": [
+      "冷錢包",
+      "加密貨幣"
+    ]
+  },
+  {
+    "id": 1621,
+    "title": "大學讀資管的一些問答分享",
+    "date": "2022-10-11T11:39:49",
+    "source": "https://changken.org/1621/study-in-im-faq/",
+    "output": "src\\content\\blog\\2022-10-11-study-in-im-faq.md",
+    "categories": [
+      "心得"
+    ],
+    "tags": [
+      "心得",
+      "資管"
+    ]
+  },
+  {
+    "id": 1613,
+    "title": "[心得]券商及交易所的打工仔",
+    "date": "2022-06-22T21:00:37",
+    "source": "https://changken.org/1613/broker-crypto-worker/",
+    "output": "src\\content\\blog\\2022-06-22-broker-crypto-worker.md",
+    "categories": [
+      "股票"
+    ],
+    "tags": [
+      "加密貨幣",
+      "心得",
+      "股票"
+    ]
+  },
+  {
+    "id": 1601,
+    "title": "[心得]加密貨幣的心得",
+    "date": "2022-05-16T20:24:21",
+    "source": "https://changken.org/1601/crypto-experience/",
+    "output": "src\\content\\blog\\2022-05-16-crypto-experience.md",
+    "categories": [
+      "加密貨幣",
+      "心得",
+      "隨意寫"
+    ],
+    "tags": [
+      "加密貨幣",
+      "心得",
+      "隨意寫"
+    ]
+  },
+  {
+    "id": 1573,
+    "title": "[加密貨幣]現在不要挖礦及試圖買幣",
+    "date": "2021-12-10T21:43:43",
+    "source": "https://changken.org/1573/%e5%8a%a0%e5%af%86%e8%b2%a8%e5%b9%a3%e7%8f%be%e5%9c%a8%e4%b8%8d%e8%a6%81%e6%8c%96%e7%a4%a6%e5%8f%8a%e8%a9%a6%e5%9c%96%e8%b2%b7%e5%b9%a3/",
+    "output": "src\\content\\blog\\2021-12-10-加密貨幣現在不要挖礦及試圖買幣.md",
+    "categories": [
+      "加密貨幣"
+    ],
+    "tags": [
+      "不要挖礦",
+      "不要買幣",
+      "加密貨幣"
+    ]
+  },
+  {
+    "id": 1568,
+    "title": "[加密貨幣]比特幣終究離不開泡沫化",
+    "date": "2021-12-07T21:32:54",
+    "source": "https://changken.org/1568/%e5%8a%a0%e5%af%86%e8%b2%a8%e5%b9%a3%e6%af%94%e7%89%b9%e5%b9%a3%e7%b5%82%e7%a9%b6%e9%9b%a2%e4%b8%8d%e9%96%8b%e6%b3%a1%e6%b2%ab%e5%8c%96/",
+    "output": "src\\content\\blog\\2021-12-07-加密貨幣比特幣終究離不開泡沫化.md",
+    "categories": [
+      "加密貨幣"
+    ],
+    "tags": [
+      "btc",
+      "加密貨幣",
+      "泡沫化"
+    ]
+  },
+  {
+    "id": 1567,
+    "title": "[加密貨幣]交易所開戶推薦",
+    "date": "2021-12-06T22:08:51",
+    "source": "https://changken.org/1567/%e5%8a%a0%e5%af%86%e8%b2%a8%e5%b9%a3%e4%ba%a4%e6%98%93%e6%89%80%e9%96%8b%e6%88%b6%e6%8e%a8%e8%96%a6/",
+    "output": "src\\content\\blog\\2021-12-06-加密貨幣交易所開戶推薦.md",
+    "categories": [
+      "加密貨幣"
+    ],
+    "tags": [
+      "交易所",
+      "加密貨幣",
+      "推薦"
+    ]
+  },
+  {
+    "id": 1565,
+    "title": "[加密貨幣]世上最苦的就是賣飛的苦",
+    "date": "2021-12-05T16:12:47",
+    "source": "https://changken.org/1565/%e5%8a%a0%e5%af%86%e8%b2%a8%e5%b9%a3%e4%b8%96%e4%b8%8a%e6%9c%80%e8%8b%a6%e7%9a%84%e5%b0%b1%e6%98%af%e8%b3%a3%e9%a3%9b%e7%9a%84%e8%8b%a6/",
+    "output": "src\\content\\blog\\2021-12-05-加密貨幣世上最苦的就是賣飛的苦.md",
+    "categories": [
+      "加密貨幣"
+    ],
+    "tags": [
+      "btc",
+      "加密貨幣"
+    ]
+  },
+  {
+    "id": 1564,
+    "title": "[電腦硬體]甚麼是礦渣?",
+    "date": "2021-11-25T10:06:57",
+    "source": "https://changken.org/1564/what-is-slag/",
+    "output": "src\\content\\blog\\2021-11-25-what-is-slag.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "礦渣",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1563,
+    "title": "[電腦硬體]電源供應器 Power Supply Unit",
+    "date": "2021-11-24T21:07:20",
+    "source": "https://changken.org/1563/computer-hardware-psu/",
+    "output": "src\\content\\blog\\2021-11-24-computer-hardware-psu.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "psu",
+      "電源供應器",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1561,
+    "title": "[電腦硬體]HDD、SSD 傳統硬碟、固態硬碟",
+    "date": "2021-11-06T22:26:01",
+    "source": "https://changken.org/1561/computer-hardware-disk/",
+    "output": "src\\content\\blog\\2021-11-06-computer-hardware-disk.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "HDD",
+      "SSD",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1551,
+    "title": "[電腦硬體]RAM 記憶體",
+    "date": "2021-09-11T17:33:10",
+    "source": "https://changken.org/1551/computer-hardware-ram/",
+    "output": "src\\content\\blog\\2021-09-11-computer-hardware-ram.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "記憶體",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1546,
+    "title": "[電腦硬體]motherboard主機板",
+    "date": "2021-09-09T20:56:36",
+    "source": "https://changken.org/1546/computer-hardware-mb/",
+    "output": "src\\content\\blog\\2021-09-09-computer-hardware-mb.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "主機板",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1545,
+    "title": "[電腦硬體]cpu中央處理器",
+    "date": "2021-09-07T21:18:26",
+    "source": "https://changken.org/1545/computer-hardware-cpu/",
+    "output": "src\\content\\blog\\2021-09-07-computer-hardware-cpu.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "cpu",
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1543,
+    "title": "[電腦硬體]GPU顯示卡",
+    "date": "2021-09-06T21:20:09",
+    "source": "https://changken.org/1543/computer-hardware-gpu/",
+    "output": "src\\content\\blog\\2021-09-06-computer-hardware-gpu.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "電腦硬體",
+      "顯示卡"
+    ]
+  },
+  {
+    "id": 1542,
+    "title": "[知識]電腦硬體介紹系列文章",
+    "date": "2021-09-06T19:18:41",
+    "source": "https://changken.org/1542/computer-hardware-intro/",
+    "output": "src\\content\\blog\\2021-09-06-computer-hardware-intro.md",
+    "categories": [
+      "電腦",
+      "電腦硬體"
+    ],
+    "tags": [
+      "電腦硬體"
+    ]
+  },
+  {
+    "id": 1478,
+    "title": "線上教學平台的比較(有限時免費課程)",
+    "date": "2020-08-29T15:44:20",
+    "source": "https://changken.org/1478/%e7%b7%9a%e4%b8%8a%e6%95%99%e5%ad%b8%e5%b9%b3%e5%8f%b0%e7%9a%84%e6%af%94%e8%bc%83/",
+    "output": "src\\content\\blog\\2020-08-29-線上教學平台的比較.md",
+    "categories": [
+      "心得",
+      "線上課程"
+    ],
+    "tags": [
+      "心得",
+      "線上課程"
+    ]
+  },
+  {
+    "id": 1398,
+    "title": "深度學習的開始",
+    "date": "2020-08-29T13:46:20",
+    "source": "https://changken.org/1398/%e6%b7%b1%e5%ba%a6%e5%ad%b8%e7%bf%92%e7%9a%84%e9%96%8b%e5%a7%8b/",
+    "output": "src\\content\\blog\\2020-08-29-深度學習的開始.md",
+    "categories": [
+      "心得",
+      "機器學習深度學習"
+    ],
+    "tags": [
+      "Deep Learning",
+      "Machine Learning"
+    ]
+  }
+]
