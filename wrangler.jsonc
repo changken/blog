@@ -1,6 +1,6 @@
 {
   "name": "changken-blog",
-  "main": ".cloudflare/worker.js",
+  "main": "@astrojs/cloudflare/entrypoints/server",
   "compatibility_date": "2026-05-11",
   "assets": {
     "directory": "dist",
