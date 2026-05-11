@@ -1,11 +1,5 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "changken-blog",
+  "name": "blog",
   "compatibility_date": "2026-05-11",
-  "assets": {
-    "directory": "./dist"
-  },
-  "observability": {
-    "enabled": true
-  }
+  "pages_build_output_dir": "dist"
 }
