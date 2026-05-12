@@ -1,11 +1,17 @@
 {
-  "name": "changken-blog",
+  "name": "blog",
   "main": "@astrojs/cloudflare/entrypoints/server",
   "compatibility_date": "2026-05-11",
   "assets": {
     "directory": "dist",
     "binding": "ASSETS"
   },
+  "kv_namespaces": [
+    {
+      "binding": "SESSION",
+      "id": "6615e28dc6a34501998a082955337f6c"
+    }
+  ],
   "observability": {
     "enabled": true
   }
